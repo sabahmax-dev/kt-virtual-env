@@ -58,7 +58,7 @@
 |------|------|
 | 操作系统 | macOS（Apple Silicon / Intel）、Windows 10+ |
 | 集群访问 | 有效的 kubeconfig，可访问目标 Kubernetes 集群 |
-| 开发构建 | Node.js ≥ 20、pnpm 9 |
+| 开发构建 | Node.js ≥ 20、pnpm 9、Go（编译特权 Helper） |
 | 网络连接 | 首次 Connect 需管理员授权 |
 
 ### 从源码启动
